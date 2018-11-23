@@ -1,7 +1,7 @@
 
-package collageprogram;
+package collegeprogram;
 import java.util.Scanner;
-public class Collageprogram {
+public class Collegeprogram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello Welocome to the University of Cordilleras:");
